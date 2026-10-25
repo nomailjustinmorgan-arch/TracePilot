@@ -1,0 +1,5 @@
+[functions.tracepilot-investigate]
+verify_jwt = false
+
+[functions.tracepilot-research]
+verify_jwt = false
